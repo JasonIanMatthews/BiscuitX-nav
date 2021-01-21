@@ -111,10 +111,14 @@ nav ul li a:hover {
 	nav.active ul {
 		display: block;
 		position: absolute;
-		top: 80px;
+		top: 89px;
 		left: 0;
 		width: 100%;
 		background: #fff;
 		text-align: center;
+	}
+	
+	nav ul li a {
+		margin: 0;
 	}
 }
